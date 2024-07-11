@@ -1,0 +1,39 @@
+Jadi kali ini Rifki akan menginstall PostgreSQL, sebelum ke penginstalannya mari kita sama-sama mempelajari apa itu database dan apa itu PostgreSQL 
+
+DBMS (Database Management system) adalah aplikasi yang digunakan untuk me-manage data
+
+PostgreSql
+Adalah sistem database relasional tingkat lanjut, enterprise-class dan open source relational database system. 
+
+Penggunaan umum PostgreSql
+ Database yang kuat di LAPP ( Linux, Apache, PostgreSQL, dan PHP)
+
+SQL (Structured Query Language)  Bahasa yang digunakan untuk mengirim perintah ke DBMS
+
+
+Install PostgreSQL
+1.	Download https://www.postgresql.org/download/ dan pilih icon windows
+ 
+2.	Set up PostgreSQL klik next
+ 
+3.	Pilih directory untuk menyimpan PostgreSQL
+ 
+4.	Pilih semua komponen dan next
+ 
+5.	Pilih directory untuk menyimpan data
+ 
+6.	Isi password (bebas)
+ 
+7.	untuk port tidak perlu diubah
+ 
+8.	lalu install 
+ 
+9.	clik icon windows dan cari env
+ 
+10.	klik environment variable
+ 
+11.	pilih patch dan edit
+ 
+12.	klik new dan tambahkan letak aplikasi yang kita download dan oke
+ 
+13.	buka CMD dan ketikkan perintah “psql –username=rifki” lalu masukkan passwordnya
